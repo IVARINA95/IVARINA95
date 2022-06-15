@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Irina  and I'm a newcomer in coding.
+- 🌱 I’m currently learning C# and Unity. 
+- 📫 How to reach me - send a letter to my email :)
